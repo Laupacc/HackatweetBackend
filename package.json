@@ -14,7 +14,8 @@
     "express": "^4.21.0",
     "mongoose": "^6.3.8",
     "morgan": "~1.9.1",
-    "uid2": "^1.0.0"
+    "uid2": "^1.0.0",
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "jest": "^28.1.1",
